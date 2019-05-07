@@ -1,0 +1,5 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\NullPatternDemo\NullPatternDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\NullPatternDemo\NullPatternDemo\bin\Debug\NullPatternDemo.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\NullPatternDemo\NullPatternDemo\bin\Debug\NullPatternDemo.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\NullPatternDemo\NullPatternDemo\obj\Debug\NullPatternDemo.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\NullPatternDemo\NullPatternDemo\obj\Debug\NullPatternDemo.pdb

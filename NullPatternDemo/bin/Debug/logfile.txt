@@ -1,0 +1,9 @@
+info:this is an Info message
+debug:this is a Debug message
+error:this is an error message
+info:this is an Info message
+debug:this is a Debug message
+error:this is an error message
+info:this is an Info message
+debug:this is a Debug message
+error:this is an error message
